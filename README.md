@@ -77,4 +77,4 @@ If you would like to contribute, please open an issue or submit a pull request.
 
 ## 📜 License
 
-No Licence Required
+GNU GENERAL PUBLIC LICENSE
